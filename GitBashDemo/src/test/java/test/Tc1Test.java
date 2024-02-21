@@ -9,6 +9,8 @@ public class Tc1Test {
 	public void tc1d()
 	{
 		Reporter.log("HH",true);
+		Reporter.log("HH3",true);
+		
 	}
 
 }
